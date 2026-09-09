@@ -1,4 +1,4 @@
 def saludo(usuario):
-    return "Bienvenido al sistema"
+    return f"Bienvenido"
 
 print(saludo("Ana"))
